@@ -18,6 +18,6 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Mohammad Rayyan Adhoni](https://www.linkedin.com/in/rayyan-adhoni-33074b31b/)  
-- Email: rayyanadhoni107@gmail.com
+- Email: Rayyanadhoni107@gmail.com
 
 

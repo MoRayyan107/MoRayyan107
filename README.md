@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats  
 
-![Rayyan's GitHub stats](https://rayyanadhoni-portfolio.netlify.app/)  
+![Rayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRayyan107&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoRayyan107&layout=compact&theme=tokyonight)  
 
@@ -32,6 +32,6 @@
 
 ## 📫 Let's Connect  
 
-- **Portfolio:** [Portfolio Link](https://morayyan107.github.io/devbyrayyan/)
+- **Portfolio:** [Portfolio Link](https://rayyanadhoni-portfolio.netlify.app/)
 - **LinkedIn:** [Mohammad Rayyan Adhoni](https://www.linkedin.com/in/mohammad-rayyan-adhoni)  
 - **Email:** [rayyanadhoni107@gmail.com](mailto:rayyanadhoni107@gmail.com)  

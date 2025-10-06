@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats  
 
-![Rayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRayyan107&show_icons=true&theme=tokyonight)  
+![Rayyan's GitHub stats](https://rayyanadhoni-portfolio.netlify.app/)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoRayyan107&layout=compact&theme=tokyonight)  
 

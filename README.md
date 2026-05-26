@@ -23,7 +23,7 @@
 ## ▎Who I Am
 ### Hi there 👋🏼, I'm Rayyan Adhoni
 
-**Backend Software Engineer | Java • Spring Boot • Jooby**
+**Backend Software Engineer | Java • Spring Boot**
 
 I build backend systems with an emphasis on **correctness, scalability, and architectural clarity**. My work centres on the JVM ecosystem — designing REST APIs, modelling relational data, and structuring service layers that remain maintainable as requirements evolve.
 

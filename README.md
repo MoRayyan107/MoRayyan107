@@ -48,13 +48,13 @@ Currently deepening expertise in **cloud-native deployment** (Azure Container Ap
 ## ▎Project Case Studies
 
 ### 🏦 ScotBank — Concurrent Banking System
-> `Java` `OOP` `Multi-threaded Design` `JUnit 5`
+> `Java` `OOP` `Jooby` `JUnit 5` `Mockito`
 
-**The Challenge:**
-Model a banking system that handles concurrent account operations without exposing shared state to race conditions or producing inconsistent balances.
+**The Task:**
+Develop a foundational banking application architecture, emphasizing strict encapsulation and clear separation between business logic and account state to ensure maintainable, testable code with coverage above 75%.
 
 **The Solution:**
-Designed an object-oriented account hierarchy with strict encapsulation boundaries. Applied thread-safe patterns to transaction operations, ensuring **atomicity across deposit, withdrawal, and transfer flows**. Separated account state from business logic to enable isolated unit testing of each operation type.
+Using the Jooby framework, an object-oriented account hierarchy with stringent encapsulation boundaries was designed. For isolated unit testing, service-oriented endpoints for deposit, withdrawal, and transfer flows were designed, guaranteeing a clear division between account state and business logic.
 
 [![ScotBank Repo](https://img.shields.io/badge/View%20Repository-ScotBank-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MoRayyan107/ScotBank)
 
@@ -90,18 +90,20 @@ Target ClientHandler → sendToClient()
 ## ▎Engineering Roadmap
 
 ```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+
-  │                                                              │
-  ├─ [✓] Spring Boot & REST API design                          │
-  ├─ [✓] PostgreSQL schema design & JPA modelling               │
-  ├─ [✓] JUnit 5 + Mockito test coverage                        │
-  ├─ [✓] Docker containerisation                                │
-  ├─ [✓] Azure Container Apps deployment                        │
-  │                                                              │
-  ├─ [ ] Apache Kafka — event streaming pipelines               │
-  ├─ [ ] Redis — distributed caching layer                      │
-  ├─ [ ] GitHub Actions — full CI/CD pipelines                  │
-  └─ [ ] Distributed tracing & observability                    │
+2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
+ │                                                                           │
+ ├─ [✓] Spring Boot & REST API design                                        │
+ ├─ [✓] PostgreSQL schema design & JPA modelling                             │
+ ├─ [✓] JUnit 5 + Mockito test coverage                                      │
+ ├─ [✓] Docker containerisation                                              │
+ ├─ [✓] Azure Container Apps deployment                                      │
+ │                                                                           │
+ ├─ [ ] Distributed Caching (Redis) — TTLs, Eviction Policies, Cache-Aside   │
+ ├─ [ ] Event-Driven Architecture (Kafka) — Topics, Partitions, Consumers    │
+ ├─ [ ] Advanced CI/CD (GitHub Actions) — Automated testing & Deployment     │
+ ├─ [ ] Observability (ELK/Grafana) — Log aggregation & Custom Metrics       │
+ ├─ [ ] Distributed Tracing — OpenTelemetry & Jaeger                         │
+ └─ [ ] Infrastructure as Code (Terraform) — Automated Azure provisioning    │
 ```
 
 ---
@@ -110,7 +112,7 @@ Target ClientHandler → sendToClient()
 
 | Certificate | Issuer | Focus |
 |:---|:---|:---|
-| 🏆 JPMC Forage Job Simulation | JPMorgan Chase & Co. | Software Engineering |
+| JPMC Forage Job Simulation | JPMorgan Chase & Co. | Software Engineering |
 
 ---
 

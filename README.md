@@ -21,6 +21,9 @@
 ---
 
 ## ▎Who I Am
+### Hi there 👋🏼, I'm Rayyan Adhoni
+
+**Backend Software Engineer | Java • Spring Boot • Jooby**
 
 I build backend systems with an emphasis on **correctness, scalability, and architectural clarity**. My work centres on the JVM ecosystem — designing REST APIs, modelling relational data, and structuring service layers that remain maintainable as requirements evolve.
 
@@ -60,7 +63,7 @@ Using the Jooby framework, an object-oriented account hierarchy with stringent e
 
 ---
 
-### 💬 Discord — Real-time Messaging Service
+### 💬 Discord — Real-time Messaging Service *[Currently Working on]*
 > `Java` `Concurrent I/O` `Event-driven Architecture` `Socket Programming`
 
 **The Challenge:**
@@ -68,6 +71,8 @@ Build a distributed, multi-user messaging service capable of handling simultaneo
 
 **The Solution:**
 Implemented a server architecture using Java's concurrency primitives — replacing raw thread-per-client with a fixed ExecutorService thread pool, and decoupling message delivery from sending via BlockingQueue with dedicated dispatcher threads. Extended to a distributed system using Kafka for cross-server messaging and Redis for shared group state and user routing.
+
+*More To implement!!*
 
 ```
 Client (TCP Socket)

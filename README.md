@@ -63,7 +63,7 @@ Using the Jooby framework, an object-oriented account hierarchy with stringent e
 
 ---
 
-### 💬 Discord — Real-time Messaging Service *[Currently Working on]*
+### 💬 Discord — Real-time Messaging Service 
 > `Java` `Concurrent I/O` `Event-driven Architecture` `Socket Programming`
 
 **The Challenge:**

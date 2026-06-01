@@ -72,8 +72,6 @@ Build a distributed, multi-user messaging service capable of handling simultaneo
 **The Solution:**
 Implemented a server architecture using Java's concurrency primitives — replacing raw thread-per-client with a fixed ExecutorService thread pool, and decoupling message delivery from sending via BlockingQueue with dedicated dispatcher threads. Extended to a distributed system using Kafka for cross-server messaging and Redis for shared group state and user routing.
 
-*More To implement!!*
-
 ```
 Client (TCP Socket)
         ↓
@@ -91,6 +89,11 @@ Target ClientHandler → sendToClient()
 [![Discord Repo](https://img.shields.io/badge/View%20Repository-Discord%20App-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MoRayyan107/Discord)
 
 ---
+
+### 🚨 ValutGuard — Real-time Fraud Detecting Ssytem
+
+---
+
 
 ## ▎Engineering Roadmap
 

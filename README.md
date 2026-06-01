@@ -91,6 +91,39 @@ Target ClientHandler → sendToClient()
 ---
 
 ### 🚨 ValutGuard — Real-time Fraud Detecting Ssytem
+> `Java 21` `Spring Boot` `Apache Kafka` `Redis` `PostgreSQL` `Spring Security` `WebSocket`
+
+**The Main Objetive:**
+
+Every day, globally  many finance banks handels million and billions of transactions, and in this era fraud is getting more and more complex. So, I'm developing a fraud detecting engine that runs withing a banking service.
+This engine validates, ingets incomming transactions and calculate risk scoring in real-time via web-sockets. processing transactions and calculatig risk score in parallel is the main challenge here
+
+**The Solution:**
+
+!!ON WORK
+
+key idea on flow:
+```
+External Service / Payment Gateway
+        ↓
+Filter Chain (CORS → JWT Auth → Redis Rate Limiter)
+        ↓
+Controller → Service Layer (Validation)
+        ↓                        ↓
+Save to PostgreSQL       Kafka Producer → to a Topic
+        ↓                        ↓
+Return 200 OK          Kafka Consumer (Fraud Scoring Engine)
+                                 ↓                    ↓
+                        Score >= 0.7 → FLAGGED    Score < 0.7 → COMPLETED
+                                 ↓
+                        Persist to DB + WebSocket Alert  
+                                        
+```
+
+
+
+[![VaultGuard Repo](https://img.shields.io/badge/View%20Repository-VaultGuard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MoRayyan107/VaultGuard)
+
 
 ---
 

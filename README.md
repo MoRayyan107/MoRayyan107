@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `Backend Software Engineer` · Java · Spring Boot · Distributed Systems
+### `Backend Software Engineer` · Java · Spring Boot 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Rayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rayyan-adhoni)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rayyanadhoni.netlify.app-10b981?style=flat-square&logo=netlify&logoColor=white)](https://rayyanadhoni-portfolio.netlify.app/)
@@ -79,7 +79,7 @@ ClientHandler (Thread Pool — 200 threads)
         ↓
 SafeGroupChat (BlockingQueue + dispatcher thread)
         ↓
-KafkaProducer → Kafka Cluster → KafkaConsumer
+KafkaProducer → KafkaConsumer (For Cross-server Messaging)
         ↓
 Redis (group membership, user-server routing)
         ↓

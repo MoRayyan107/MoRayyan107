@@ -50,7 +50,7 @@ Currently deepening expertise in **cloud-native deployment** (Azure Container Ap
 
 ## ▎Project Case Studies
 
-### 🏦 ScotBank — Banking System
+### 🏦 ScotBank — Concurrent Banking System
 > `Java` `OOP` `Jooby` `JUnit 5` `Mockito`
 
 **The Task:**

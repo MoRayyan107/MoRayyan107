@@ -143,7 +143,7 @@ Return 200 OK          Kafka Consumer (Fraud Scoring Engine)
  ├─ [ ] Event-Driven Architecture (Kafka) — Topics, Partitions, Consumers    │
  ├─ [ ] Advanced CI/CD (GitHub Actions) — Automated testing & Deployment     │
  ├─ [ ] Integration Testing                                                  |
- ├─ [ ] (Not ass roadmap) DSA                                                |
+ ├─ [ ] (Not as roadmap) DSA                                                |
 
 ```
 

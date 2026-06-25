@@ -142,9 +142,9 @@ Return 200 OK          Kafka Consumer (Fraud Scoring Engine)
  ├─ [ ] Distributed Caching (Redis) — TTLs, Eviction Policies, Cache-Aside   │
  ├─ [ ] Event-Driven Architecture (Kafka) — Topics, Partitions, Consumers    │
  ├─ [ ] Advanced CI/CD (GitHub Actions) — Automated testing & Deployment     │
- ├─ [ ] Observability (ELK/Grafana) — Log aggregation & Custom Metrics       │
- ├─ [ ] Distributed Tracing — OpenTelemetry & Jaeger                         │
- └─ [ ] Infrastructure as Code (Terraform) — Automated Azure provisioning    │
+ ├─ [ ] Integration Testing                                                  |
+ ├─ [ ] (Not ass roadmap) DSA                                                |
+
 ```
 
 ---

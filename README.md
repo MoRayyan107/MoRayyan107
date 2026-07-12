@@ -1,16 +1,7 @@
+![svg](svg-dark.svg)
+
 <div align="center">
-
-```
-██████╗  █████╗ ██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗████╗  ██║
-██████╔╝███████║ ╚████╔╝  ╚████╔╝ ███████║██╔██╗ ██║
-██╔══██╗██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██║╚██╗██║
-██║  ██║██║  ██║   ██║      ██║   ██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-### `Backend Software Engineer` · Java · Spring Boot 
-
+        
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Rayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rayyan-adhoni)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rayyanadhoni.netlify.app-10b981?style=flat-square&logo=netlify&logoColor=white)](https://rayyanadhoni-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-rayyanadhoni107@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanadhoni107@gmail.com)

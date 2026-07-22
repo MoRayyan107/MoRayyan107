@@ -87,7 +87,7 @@ Target ClientHandler → sendToClient()
 **The Main Objetive:**
 
 Every day, globally  many finance banks handels million and billions of transactions, and in this era fraud is getting more and more complex. So, I'm developing a fraud detecting engine that runs withing a banking service.
-This engine validates, ingets incomming transactions and calculate risk scoring in real-time via web-sockets. processing transactions and calculatig risk score in parallel is the main challenge here
+This engine validates, ingets incomming transactions and calculate risk scoring in real-time via Kafka. processing transactions and calculatig risk score in parallel and producing live updates via WebSockets is the main challenge here
 
 **The Solution:**
 

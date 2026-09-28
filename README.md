@@ -141,7 +141,7 @@ Return 200 OK          Kafka Consumer (Fraud Scoring Engine)
 ---
 ## ▎GitHub Activity
 
-[![Rayyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoRayyan107&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rayyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoRayyan107&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoRayyan107&theme=dark)](https://git.io/streak-stats)
 

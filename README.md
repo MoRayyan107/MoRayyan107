@@ -34,7 +34,7 @@ I'm expanding my experience with cloud deployment, distributed messaging, and re
 ### 🏦 ScotBank · Banking system
 
 `Java` · `Jooby` · `JUnit 5` · `Mockito`
-
+ 
 A banking application built around an object-oriented account model. Service endpoints handle deposits, withdrawals, and transfers, with account state kept separate from business logic. Unit tests focus on the core transaction flows.
 
 [Explore ScotBank →](https://github.com/MoRayyan107/ScotBank)

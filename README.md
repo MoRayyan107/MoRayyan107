@@ -1,4 +1,4 @@
-![Rayyan Adhoni — Backend Software Engineer](.svg)
+![Rayyan Adhoni — Backend Software Engineer](svg-dark.svg)
 
 <div align="center">
 

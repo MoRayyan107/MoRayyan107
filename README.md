@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Rayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rayyan-adhoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Rayyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-adhoni-33074b31b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rayyaadhoni.dev-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://rayyaadhoni.dev/)
 [![Email](https://img.shields.io/badge/Email-rayyanadhoni107@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanadhoni107@gmail.com)
 [![MEng](https://img.shields.io/badge/MEng-University%20of%20Strathclyde-003865?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.strath.ac.uk)

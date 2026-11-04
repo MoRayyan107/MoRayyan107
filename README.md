@@ -14,7 +14,7 @@
 
 Hi, I'm Rayyan Adhoni, a backend software engineer working primarily with **Java and Spring Boot**. I enjoy building reliable APIs, modelling relational data, and designing services that are straightforward to test and maintain.
 
-I'm expanding my experience with cloud deployment, distributed messaging, and real-time systems through hands-on projects.
+I'm expanding my experience with cloud deployment, distributed messaging, real-time systems, and developer tooling through hands-on projects.
 
 ---
 
@@ -25,12 +25,20 @@ I'm expanding my experience with cloud deployment, distributed messaging, and re
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) |
 | **Databases & messaging** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
 | **Testing** | ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white) |
-| **Cloud & tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Cloud & tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 | **Other languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 
 ---
 
 ## 🚀 Featured projects
+
+### 🔍 Linter · Java code analysis tool
+
+`Java 21` · `Maven` · `CLI` · `Web`
+
+**Currently working on.** A multi-module Java linter project with separate core, command-line, and web components. The project is focused on analysing readable Java source files while keeping the linting engine reusable across different interfaces.
+
+[Explore Linter →](https://github.com/MoRayyan107/linter-CS408)
 
 ### 🏦 ScotBank · Banking system
 
@@ -52,7 +60,7 @@ A multi-user messaging service that handles concurrent TCP connections with a fi
 
 `Java 21` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `WebSocket`
 
-**In development.** VaultGuard is a banking service project for assessing transaction risk in real time. The planned flow validates and stores incoming transactions, publishes them to Kafka for scoring, and sends alerts over WebSocket when a transaction is flagged. The design also includes JWT authentication and Redis-backed rate limiting.
+**On hold.** VaultGuard is a banking service project for assessing transaction risk in real time. The planned flow validates and stores incoming transactions, publishes them to Kafka for scoring, and sends alerts over WebSocket when a transaction is flagged. The design also includes JWT authentication and Redis-backed rate limiting.
 
 [Explore VaultGuard →](https://github.com/MoRayyan107/VaultGuard)
 
@@ -60,9 +68,9 @@ A multi-user messaging service that handles concurrent TCP connections with a fi
 
 ## 📍 What I'm working on
 
+- Building the Java linter across its core, CLI, and web modules.
+- Improving static analysis rules and making diagnostics clear and actionable.
 - Strengthening my Git workflow and learning AWS essentials.
-- Deepening my understanding of Kafka consumers, partitions, and message delivery.
-- Exploring Redis caching patterns and rate limiting.
 - Improving integration tests and automated deployment workflows.
 
 ---
@@ -88,3 +96,5 @@ A multi-user messaging service that handles concurrent TCP connections with a fi
 [Email](mailto:rayyanadhoni107@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammad-rayyan-adhoni) · [Portfolio](https://rayyaadhoni.dev/)
 
 </div>
+
+---

@@ -7,7 +7,13 @@
 [![Email](https://img.shields.io/badge/Email-rayyanadhoni107@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanadhoni107@gmail.com)
 [![MEng](https://img.shields.io/badge/MEng-University%20of%20Strathclyde-003865?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.strath.ac.uk)
 
+<p align="left">
+  <img src="https://shields.io" alt="GitHub Universe 2026 Badge" />
+</p>
+
+
 </div>
+
 
 ## 👋 About me
 
